@@ -1,1 +1,1 @@
-# Proyecto-Sistema-Gesti-n-de-Hotel---DSI
+# Proyecto-Sistema-Gestión-de-Hotel-DSI
